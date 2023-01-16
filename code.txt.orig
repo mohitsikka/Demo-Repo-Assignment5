@@ -1,0 +1,6 @@
+this is for assignment 5
+<<<<<<< HEAD
+this is added from Feature2 branch
+=======
+this is added on Feature1 Branch
+>>>>>>> F1
